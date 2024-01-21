@@ -1,0 +1,20 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title_color{
+    font-weight: 1000;
+    color: #6e9092;
+}
+
+.title_weight{
+    font-size: 22px;
+}
+
+hr{
+    border-top: 3px dashed black;
+}
+
+body{
+    background-color: #dfeef0;
+}
